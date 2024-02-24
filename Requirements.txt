@@ -1,0 +1,5 @@
+# Package for OpenAI's whisper
+git+https://github.com/openai/whisper.git
+
+# System package required for audio processing
+ffmpeg
